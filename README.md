@@ -21,5 +21,5 @@ Un fichier HTML par molécules et organismes (navbar, commentaires, ec...)
 
 ## Ressource
 J'ai utilisé comme kit UI de base : 
-[Kit Ui "Lux"](https://bootswatch.com/lux/)
+[Kit Ui "Lux"](https://bootswatch.com/lux/)<br>
 J'ai choisis ce kit car j'avais déjà dans l'idée de faire un site classe, simplistement élégant. 
